@@ -1,0 +1,20 @@
+<colors>
+    <version>1101</version>
+    <deleteddemopaintings>gallery_44352,gallery_38454,gallery_42585,gallery_39514,gallery_12920,gallery_1,gallery_39894,</deleteddemopaintings>
+    <ui_nousagescreen>0</ui_nousagescreen>
+    <calibration_minpressure>0</calibration_minpressure>
+    <calibration_maxpressure>0</calibration_maxpressure>
+    <inputmapper>
+        <setup>1</setup>
+        <up>zoomin</up>
+        <right>eyedropper</right>
+        <down>zoomout</down>
+        <left>pan</left>
+        <a>none</a>
+        <b>none</b>
+        <x>none</x>
+        <y>none</y>
+        <l>palette</l>
+        <r>undo</r>
+    </inputmapper>
+</colors>
