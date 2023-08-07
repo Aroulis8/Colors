@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aroulis8
-- 👀 I’m interested in coding and Minecraft
-- 🌱 I’m currently learning how to make apps with android studio
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
